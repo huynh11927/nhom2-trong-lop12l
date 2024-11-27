@@ -10,9 +10,9 @@
 <p><strong>Khoai Tây Chiên</strong> <span>15,000 VNĐ</span></p>  
 <img src="images\khoaitaychien.jpg" alt="Khoai Tây Chiên">		             
 <p><strong>Xúc Xích Nướng</strong> <span>20,000 VNĐ</span></p>  
-<img src="images\xucxichnuong.jpg" alt="Xúc XÍch Nướng">		              
+<img src="images\xucxich.jpg" alt="Xúc XÍch Nướng">		              
 <p><strong>Gà Rán Giòn Tan</strong> <span>25,000 VNĐ</span></p>  
-<img src="images\gagangion.jpg" alt="Gà Gán Giòn Tan">		             
+<img src="images\gagan.jpg" alt="Gà Gán Giòn Tan">		             
 <p><strong>Trà Sữa Trân Châu</strong> <span>18,000 VNĐ</span></p>
 <img src="images\trasuatranchau.jpg" alt="Trà sữa trân châu">		             
 <table border="1">
